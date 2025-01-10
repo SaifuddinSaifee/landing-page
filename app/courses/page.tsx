@@ -5,6 +5,7 @@ import { PremiumPackage } from "./components/PremiumPackage";
 import { ExpertPackages } from "./components/ExpertPackages";
 import { AdvancedPackages } from "./components/AdvancedPackages";
 import { CommonFeaturesList } from "./components/CommonFeaturesList";
+import { CommonBenefits } from "./components/CommonBenefits";
 
 export default function CoursesPage() {
   return (
@@ -25,6 +26,7 @@ export default function CoursesPage() {
           </p>
         </motion.div>
 
+        <CommonBenefits />
         <PremiumPackage />
         <ExpertPackages />
         <AdvancedPackages />

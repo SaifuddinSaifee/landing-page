@@ -25,3 +25,28 @@ Sessions by Program Directors about their programs
 Opportunity to meet Carnegie Mellon University professors and students and seek out advice and possible collaborations
 Silicon Valley Networking Events opportunity
 
+
+
+@app 
+
+For the Advanced Package section this is how it should look
+
+Combine both the cards, except, add a subtle partitioner between the packages to separate them. 
+
+Now modify this card in a way where the partitioner is only until Expert Exclusive Benefits, and the Expert Exclusive benefits is common for both the sides, this also includes the price and other stuff around it.
+
+Expert Package and the 4 week program should also be common for this card rather than each side having it's own.
+
+And just above the Expert Exclusive Benefits header, add a small note with a * saying that students can opt for either one of this package
+
+
+Can you add similar tag like "✨ Includes 2 free certification exam vouchers (worth $198) with your course purchase" to the Expert Package
+
+@app 
+
+Let's add another page called Scholarships
+
+Also add this to the Navbar.
+
+for the content of this page, here is the content:
+
