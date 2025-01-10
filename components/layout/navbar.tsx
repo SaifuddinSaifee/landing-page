@@ -18,6 +18,7 @@ const NavLink = ({ href, children }: NavLinkProps) => (
 
 const NAVIGATION_ITEMS = [
   { href: '/courses', label: 'Courses' },
+  { href: '/scholarships', label: 'Scholarships' },
   { href: '/about', label: 'About' },
   { href: '/contact', label: 'Contact' }
 ]

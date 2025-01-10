@@ -42,11 +42,13 @@ And just above the Expert Exclusive Benefits header, add a small note with a * s
 
 Can you add similar tag like "✨ Includes 2 free certification exam vouchers (worth $198) with your course purchase" to the Expert Package
 
-@app 
+@app @ScholarshipGuide revampv1.md 
 
 Let's add another page called Scholarships
 
 Also add this to the Navbar.
 
-for the content of this page, here is the content:
+for the content of this page, here is the content: @ScholarshipGuide.md 
+
+make sure you follow the theme and style as used in @courses 
 
